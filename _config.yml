@@ -5,12 +5,12 @@ description: "lovely"
 url: "http://iridescent.ink"
 baseurl: "/lovely"
 facebook_username: ""
-twitter_username: ""
-instagram_username: ""
-github_username:  ""
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
+# twitter_username: ""
+# instagram_username: ""
+github_username:  "antsfamily"
+# deviantart_username: ""
+# flickr_username: ""
+# discus_shortname: ""
 share: true
 
 # Owner/author information
