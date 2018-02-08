@@ -5,7 +5,7 @@ subtitle:   " "
 active: journal
 image:
   feature: "Wanderer.jpg"
-date:       2015-12-09
+date:       2016-10-01
 header-img: "img/postcover/Wanderer.jpg"
 tag: [光]
 categories: [思考, 心情]
