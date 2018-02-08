@@ -1,0 +1,25 @@
+---
+layout:     post
+title:      "游子"
+subtitle:   " "
+active: journal
+image:
+  feature: "Wanderer.jpg"
+date:       2015-12-09
+header-img: "img/postcover/Wanderer.jpg"
+tag: [光]
+categories: [思考, 心情]
+comments: false
+---
+
+慢慢地把包从背上卸下来，然后缓缓地坐下，突然，这耀眼地光温暖了我的视线，忍不住拍下来。不禁想作诗一首:
+
+人生路慢慢，岁月河匆匆。
+几多生悔意，几度夕阳红。
+冥冥自有数，成败转头空。
+莫愁无知己，天下尽英雄。
+
+
+<kbd>摄于徐州高铁站</kbd>
+
+

@@ -12,14 +12,6 @@ categories: [读书, 遐想]
 comments: false
 
 
----
-layout: post
-title: "宁静的冬日"
-img: AthosPeninsula.jpg # Add image post (optional)
-date: 2016-01-24 15:15:00 +0300
-description: 曾经有人问我相信上帝的存在吗？我说我相信零和无穷，或者说是宇宙的运行规律吧。无论信与否，有些地方总是令人感到神圣而向往的！
-tag: [冬日, 神圣, 书, 维纳斯]
----
 
 冬日，在暖暖的午后，泡上一杯茶，随便拿起一本书，凑到阳光跟前，是何等的惬意与享受......
 

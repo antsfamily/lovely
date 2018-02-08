@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "黑夜中的火柴之光"
-subtitle:   " "
+subtitle:   "在人们相爱的地方，是从没有黑夜的！"
 active: journal
 image:
   feature: "LightOfMatches.jpg"
