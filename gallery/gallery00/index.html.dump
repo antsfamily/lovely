@@ -1,35 +1,32 @@
 ---
 layout: page
 title: "album"
-description: "masonry"
+description: "love theme"
 active: gallery
 header-img: "img/gallery-bg.jpg"
-album-title: "in love"
+album-title: "love theme"
 images:
- - image_path: /gallery/archive/g01/20171002_6.jpg
+ - image_path: /gallery/archive/g00/20170520.jpg
    caption: IMAGE TITLE
-   copyright: © iridescent
- - image_path: /gallery/archive/g01/20171002_135040.jpg
+   copyright: 漏 iridescent
+ - image_path: /gallery/archive/g00/20170520_1.png
    caption: IMAGE TITLE
-   copyright: © iridescent
- - image_path: /gallery/archive/g01/IMG_20171002_135614.jpg
+   copyright: 漏 iridescent
+ - image_path: /gallery/archive/g00/20170603.jpg
    caption: IMAGE TITLE
-   copyright: © iridescent
- - image_path: /gallery/archive/g01/IMG_20171002_135935.jpg
+   copyright: 漏 iridescent
+ - image_path: /gallery/archive/g00/20170920.jpg
    caption: IMAGE TITLE
-   copyright: © iridescent
- - image_path: /gallery/archive/g01/IMG_20171002_140122.jpg
+   copyright: 漏 iridescent
+ - image_path: /gallery/archive/g00/20170926.jpg
    caption: IMAGE TITLE
-   copyright: © iridescent
- - image_path: /gallery/archive/g01/IMG_20171002_141230.jpg
+   copyright: 漏 iridescent
+ - image_path: /gallery/archive/g00/20171224.jpg
    caption: IMAGE TITLE
-   copyright: © iridescent
- - image_path: /gallery/archive/g01/IMG_20171002_184025.jpg
+   copyright: 漏 iridescent
+ - image_path: /gallery/archive/g00/20180125.jpg
    caption: IMAGE TITLE
-   copyright: © iridescent
- - image_path: /gallery/archive/g01/IMG_20180208_233903.png
-   caption: IMAGE TITLE
-   copyright: © iridescent
+   copyright: 漏 iridescent
 ---
 
 <html class="no-js" lang="en">

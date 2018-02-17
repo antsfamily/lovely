@@ -1,33 +1,20 @@
 ---
 layout: page
 title: "album"
-description: "masonry"
+description: "in love"
 active: gallery
 header-img: "img/gallery-bg.jpg"
 album-title: "in love"
 images:
- - image_path: /lovely/gallery/archive/g02/20171202_1.jpg
+ - image_path: /lovely/gallery/archive/g04/20171209_2.jpg
    caption: IMAGE TITLE
-   copyright: © iridescent
- - image_path: /lovely/gallery/archive/g02/20171202_5.jpg
+   copyright: 漏 iridescent
+ - image_path: /lovely/gallery/archive/g04/20171209_3.jpg
    caption: IMAGE TITLE
-   copyright: © iridescent
- - image_path: /lovely/gallery/archive/g02/IMG_20171202_194335.jpg
+   copyright: 漏 iridescent
+ - image_path: /lovely/gallery/archive/g04/20171209_4.jpg
    caption: IMAGE TITLE
-   copyright: © iridescent
- - image_path: /lovely/gallery/archive/g02/IMG_20171202_200507.jpg
-   caption: IMAGE TITLE
-   copyright: © iridescent
- - image_path: /lovely/gallery/archive/g02/IMG_20171202_205003.jpg
-   caption: IMAGE TITLE
-   copyright: © iridescent
- - image_path: /lovely/gallery/archive/g02/IMG_20171202_212022.jpg
-   caption: IMAGE TITLE
-   copyright: © iridescent
- - image_path: /lovely/gallery/archive/g02/IMG_20171202_212139.jpg
-   caption: IMAGE TITLE
-   copyright: © iridescent
- - image_path: /lovely/gallery/archive/g02/IMG_20171202_215312.jpg
+   copyright: 漏 iridescent
 ---
 
 <html class="no-js" lang="en">

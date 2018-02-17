@@ -4,30 +4,26 @@ title: "album"
 description: "masonry"
 active: gallery
 header-img: "img/gallery-bg.jpg"
-album-title: "in love"
+album-title: "my 2nd album"
 images:
- - image_path: /lovely/gallery/archive/g02/20171202_1.jpg
+ - image_path: /lovely/gallery/archive/g03/20180104_1.jpg
    caption: IMAGE TITLE
-   copyright: © iridescent
- - image_path: /lovely/gallery/archive/g02/20171202_5.jpg
+   copyright: 漏 iridescent
+ - image_path: /lovely/gallery/archive/g03/20180104_2.jpg
    caption: IMAGE TITLE
-   copyright: © iridescent
- - image_path: /lovely/gallery/archive/g02/IMG_20171202_194335.jpg
+   copyright: 漏 iridescent
+ - image_path: /lovely/gallery/archive/g03/20180104_3.jpg
    caption: IMAGE TITLE
-   copyright: © iridescent
- - image_path: /lovely/gallery/archive/g02/IMG_20171202_200507.jpg
+   copyright: 漏 iridescent
+ - image_path: /lovely/gallery/archive/g03/20180104_4.jpg
    caption: IMAGE TITLE
-   copyright: © iridescent
- - image_path: /lovely/gallery/archive/g02/IMG_20171202_205003.jpg
+   copyright: 漏 iridescent
+ - image_path: /lovely/gallery/archive/g03/20180104_5.jpg
    caption: IMAGE TITLE
-   copyright: © iridescent
- - image_path: /lovely/gallery/archive/g02/IMG_20171202_212022.jpg
+   copyright: 漏 iridescent
+ - image_path: /lovely/gallery/archive/g03/20180104_6.jpg
    caption: IMAGE TITLE
-   copyright: © iridescent
- - image_path: /lovely/gallery/archive/g02/IMG_20171202_212139.jpg
-   caption: IMAGE TITLE
-   copyright: © iridescent
- - image_path: /lovely/gallery/archive/g02/IMG_20171202_215312.jpg
+   copyright: 漏 iridescent
 ---
 
 <html class="no-js" lang="en">
