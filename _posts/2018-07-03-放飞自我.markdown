@@ -5,8 +5,8 @@ subtitle:   "我也会吃醋的"
 active: journal
 image:
   feature: "flyme.jpg"
-date:       2017-01-23
-header-img: "img/postcover/flyme.jpg"
+date:       2017-07-03
+header-img: "img/postcover/release.jpg"
 tag: [love, think]
 categories: [思考, 心情]
 comments: false
