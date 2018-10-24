@@ -4,7 +4,7 @@ title:      "放飞自我"
 subtitle:   "我也会吃醋的"
 active: journal
 image:
-  feature: "flyme.jpg"
+  feature: "release.jpg"
 date:       2017-07-03
 header-img: "img/postcover/release.jpg"
 tag: [love, think]
